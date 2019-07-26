@@ -11,8 +11,8 @@ Test-Version von Eagle geöffnet werden.
 Das Demo-Program bgmeter.ino kann in der Arduino-IDE geöffnet
 werden. Es benötigt als zusätzliche Bibliotheken
 
-	- ```VL53L0X distance sensor library``` von Pololu für den Laser-Sensor
-	- ```TFT_ST7735 library``` von Bodmer für das Display
+  - ```VL53L0X distance sensor library``` von Pololu für den Laser-Sensor
+  - ```TFT_ST7735 library``` von Bodmer für das Display
 
 In der Datei ```User_Setup.h``` der TFT_ST7735-Bibliothek müssen
 folgenden Zeilen angepasst werden, damit korrekt eingestellt ist an
